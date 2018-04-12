@@ -1,8 +1,0 @@
-# test
-
-foo
-
-bar
-
-
-ba
